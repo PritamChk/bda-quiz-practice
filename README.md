@@ -21,15 +21,11 @@ Set-ExecutionPolicy -Scope CurrentUser Unrestricted
 ```
 > - step 2:
 ```bash
-pipenv install
+pipenv sync
 ```
 > - step 3:
 ```bash
 pipenv shell
-```
-> - step 4:
-```bash
-pipenv sync
 ```
 > All setup Done! **Ready to Go!**
 ---
