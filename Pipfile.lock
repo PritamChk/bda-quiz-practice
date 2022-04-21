@@ -42,11 +42,11 @@
         },
         "letpn-bda": {
             "hashes": [
-                "sha256:1340644ce0c1badec45403b3459db12c824499b07a471fb86e50503081d5c78c",
-                "sha256:fbe44e23ce1730710a3378be968ac98c750cd4ebc728f3dc1f20c4d61c1b788f"
+                "sha256:284e5bce6cf5db917fea77a256e5e8f0700c1cdfe72827a5ebeef5882a054021",
+                "sha256:75306266371eba91021a236833ec8bdedaef38edf1f424f598d1072b0c5d96ce"
             ],
             "index": "pypi",
-            "version": "==0.2.11"
+            "version": "==1.0.0"
         },
         "shellingham": {
             "hashes": [
